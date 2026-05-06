@@ -22,8 +22,8 @@ When I'm not working with data, I enjoy playing sports. I love the moment when d
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** 
-- **Project B:** 
+- **Project A:** Analyzed large-scale digital payment data to uncover transaction trends, regional performance, and user adoption patterns across India.
+- **Project B:** Performed data analysis on COVID-19 datasets to study case trends, recovery patterns, and regional impact using Python.
 ## 🌱 Currently Learning 
 
 - [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
