@@ -26,8 +26,8 @@ When I'm not working with data, I enjoy playing sports. I love the moment when d
 - **Project B:** Performed data analysis on COVID-19 datasets to study case trends, recovery patterns, and regional impact using Python.
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Statistics and EDA with python
+- Generative AI for data analytics
 
 ## 🛠️ Technical Skillset
 
@@ -45,7 +45,6 @@ When I'm not working with data, I enjoy playing sports. I love the moment when d
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
